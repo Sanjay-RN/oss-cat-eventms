@@ -1,0 +1,5 @@
+[
+  { "title": "Tech Quiz 2026", "category": "Technical", "description": "Inter-department technical quiz on programming, networks and databases.", "date": "2026-11-05", "time": "10:00", "venue": "Seminar Hall A", "max_seats": 60 },
+  { "title": "Hackathon: Code for Campus", "category": "Technical", "description": "24-hour hackathon to build solutions for campus problems.", "date": "2026-11-14", "time": "09:00", "venue": "Computer Lab 3", "max_seats": 40 },
+  { "title": "Open Source Workshop", "category": "Workshop", "description": "Hands-on session on Git, GitHub and contributing to open source projects.", "date": "2026-11-10", "time": "14:00", "venue": "Main Auditorium", "max_seats": 120 }
+]
